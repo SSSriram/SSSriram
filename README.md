@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSSriram
+- 👋 Hi, I’m @SS Sriram
 - 👀 I’m interested in Machine Learning and coding
 - 🌱 I’m currently learning Electronics and Computer Engineering
 - 💞️ I’m looking to collaborate on ...
