@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SS Sriram
 - 👀 I’m interested in Machine Learning and coding
-- 🌱 I’m currently learning Electronics and Computer Engineering
+- 🌱 I’m currently doing my master's in Applied Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through email sriram.saisrinivasan@gmail.com
 
